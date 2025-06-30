@@ -1,0 +1,906 @@
+Date,Product_Name,Product_Category,Price_per_Unit,Discount_%,Stock_Available,DayOfWeek,Is_Weekend,Is_Holiday,Units_Sold
+2024-12-29,Amul Milk 500ml,Dairy,38.0,5,22,6,1,0,14
+2024-12-30,Amul Milk 500ml,Dairy,36.0,10,60,0,0,0,12
+2024-12-31,Amul Milk 500ml,Dairy,40.0,0,36,1,0,0,14
+2025-01-01,Amul Milk 500ml,Dairy,40.0,0,94,2,0,0,10
+2025-01-02,Amul Milk 500ml,Dairy,38.0,5,96,3,0,0,11
+2025-01-03,Amul Milk 500ml,Dairy,40.0,0,48,4,0,0,12
+2025-01-04,Amul Milk 500ml,Dairy,38.0,5,45,5,1,0,14
+2025-01-05,Amul Milk 500ml,Dairy,38.0,5,84,6,1,0,15
+2025-01-06,Amul Milk 500ml,Dairy,38.0,5,33,0,0,0,9
+2025-01-07,Amul Milk 500ml,Dairy,34.0,15,49,1,0,0,10
+2025-01-08,Amul Milk 500ml,Dairy,38.0,5,87,2,0,0,10
+2025-01-09,Amul Milk 500ml,Dairy,40.0,0,55,3,0,0,5
+2025-01-10,Amul Milk 500ml,Dairy,32.0,20,89,4,0,0,23
+2025-01-11,Amul Milk 500ml,Dairy,40.0,0,92,5,1,0,14
+2025-01-12,Amul Milk 500ml,Dairy,40.0,0,91,6,1,0,16
+2025-01-13,Amul Milk 500ml,Dairy,40.0,0,58,0,0,0,12
+2025-01-14,Amul Milk 500ml,Dairy,40.0,0,58,1,0,0,8
+2025-01-15,Amul Milk 500ml,Dairy,32.0,20,95,2,0,0,20
+2025-01-16,Amul Milk 500ml,Dairy,38.0,5,60,3,0,0,11
+2025-01-17,Amul Milk 500ml,Dairy,36.0,10,32,4,0,0,18
+2025-01-18,Amul Milk 500ml,Dairy,40.0,0,20,5,1,0,11
+2025-01-19,Amul Milk 500ml,Dairy,34.0,15,57,6,1,0,17
+2025-01-20,Amul Milk 500ml,Dairy,38.0,5,50,0,0,0,11
+2025-01-21,Amul Milk 500ml,Dairy,40.0,0,36,1,0,0,9
+2025-01-22,Amul Milk 500ml,Dairy,34.0,15,34,2,0,0,18
+2025-01-23,Amul Milk 500ml,Dairy,36.0,10,94,3,0,0,9
+2025-01-24,Amul Milk 500ml,Dairy,40.0,0,79,4,0,0,12
+2025-01-25,Amul Milk 500ml,Dairy,40.0,0,28,5,1,0,15
+2025-01-26,Amul Milk 500ml,Dairy,40.0,0,39,6,1,0,9
+2025-01-27,Amul Milk 500ml,Dairy,38.0,5,95,0,0,0,11
+2025-01-28,Amul Milk 500ml,Dairy,38.0,5,54,1,0,0,15
+2025-01-29,Amul Milk 500ml,Dairy,40.0,0,51,2,0,0,10
+2025-01-30,Amul Milk 500ml,Dairy,40.0,0,83,3,0,0,12
+2025-01-31,Amul Milk 500ml,Dairy,40.0,0,81,4,0,0,9
+2025-02-01,Amul Milk 500ml,Dairy,32.0,20,22,5,1,0,17
+2025-02-02,Amul Milk 500ml,Dairy,40.0,0,73,6,1,0,12
+2025-02-03,Amul Milk 500ml,Dairy,36.0,10,20,0,0,0,11
+2025-02-04,Amul Milk 500ml,Dairy,40.0,0,64,1,0,0,8
+2025-02-05,Amul Milk 500ml,Dairy,38.0,5,28,2,0,0,13
+2025-02-06,Amul Milk 500ml,Dairy,32.0,20,41,3,0,0,13
+2025-02-07,Amul Milk 500ml,Dairy,36.0,10,96,4,0,0,16
+2025-02-08,Amul Milk 500ml,Dairy,38.0,5,78,5,1,0,12
+2025-02-09,Amul Milk 500ml,Dairy,40.0,0,56,6,1,0,16
+2025-02-10,Amul Milk 500ml,Dairy,32.0,20,96,0,0,0,16
+2025-02-11,Amul Milk 500ml,Dairy,38.0,5,83,1,0,0,11
+2025-02-12,Amul Milk 500ml,Dairy,32.0,20,73,2,0,0,18
+2025-02-13,Amul Milk 500ml,Dairy,40.0,0,27,3,0,0,14
+2025-02-14,Amul Milk 500ml,Dairy,34.0,15,59,4,0,0,18
+2025-02-15,Amul Milk 500ml,Dairy,36.0,10,60,5,1,0,18
+2025-02-16,Amul Milk 500ml,Dairy,40.0,0,82,6,1,0,16
+2025-02-17,Amul Milk 500ml,Dairy,40.0,0,51,0,0,0,10
+2025-02-18,Amul Milk 500ml,Dairy,40.0,0,59,1,0,0,7
+2025-02-19,Amul Milk 500ml,Dairy,36.0,10,83,2,0,0,14
+2025-02-20,Amul Milk 500ml,Dairy,34.0,15,33,3,0,0,17
+2025-02-21,Amul Milk 500ml,Dairy,34.0,15,59,4,0,0,19
+2025-02-22,Amul Milk 500ml,Dairy,34.0,15,36,5,1,0,16
+2025-02-23,Amul Milk 500ml,Dairy,34.0,15,60,6,1,0,20
+2025-02-24,Amul Milk 500ml,Dairy,40.0,0,63,0,0,0,10
+2025-02-25,Amul Milk 500ml,Dairy,40.0,0,61,1,0,0,14
+2025-02-26,Amul Milk 500ml,Dairy,38.0,5,48,2,0,0,12
+2025-02-27,Amul Milk 500ml,Dairy,32.0,20,77,3,0,0,19
+2025-02-28,Amul Milk 500ml,Dairy,38.0,5,37,4,0,0,8
+2025-03-01,Amul Milk 500ml,Dairy,40.0,0,98,5,1,0,18
+2025-03-02,Amul Milk 500ml,Dairy,38.0,5,94,6,1,0,15
+2025-03-03,Amul Milk 500ml,Dairy,40.0,0,89,0,0,0,13
+2025-03-04,Amul Milk 500ml,Dairy,40.0,0,43,1,0,0,6
+2025-03-05,Amul Milk 500ml,Dairy,32.0,20,22,2,0,0,22
+2025-03-06,Amul Milk 500ml,Dairy,40.0,0,23,3,0,0,9
+2025-03-07,Amul Milk 500ml,Dairy,38.0,5,36,4,0,0,16
+2025-03-08,Amul Milk 500ml,Dairy,40.0,0,83,5,1,0,14
+2025-03-09,Amul Milk 500ml,Dairy,40.0,0,76,6,1,0,13
+2025-03-10,Amul Milk 500ml,Dairy,38.0,5,98,0,0,0,8
+2025-03-11,Amul Milk 500ml,Dairy,38.0,5,78,1,0,0,11
+2025-03-12,Amul Milk 500ml,Dairy,40.0,0,41,2,0,0,7
+2025-03-13,Amul Milk 500ml,Dairy,40.0,0,71,3,0,0,9
+2025-03-14,Amul Milk 500ml,Dairy,38.0,5,40,4,0,0,12
+2025-03-15,Amul Milk 500ml,Dairy,36.0,10,24,5,1,0,17
+2025-03-16,Amul Milk 500ml,Dairy,36.0,10,39,6,1,0,17
+2025-03-17,Amul Milk 500ml,Dairy,40.0,0,98,0,0,0,8
+2025-03-18,Amul Milk 500ml,Dairy,40.0,0,34,1,0,0,8
+2025-03-19,Amul Milk 500ml,Dairy,40.0,0,47,2,0,0,7
+2025-03-20,Amul Milk 500ml,Dairy,38.0,5,89,3,0,0,11
+2025-03-21,Amul Milk 500ml,Dairy,36.0,10,28,4,0,0,15
+2025-03-22,Amul Milk 500ml,Dairy,40.0,0,38,5,1,0,13
+2025-03-23,Amul Milk 500ml,Dairy,38.0,5,55,6,1,0,12
+2025-03-24,Amul Milk 500ml,Dairy,38.0,5,59,0,0,0,11
+2025-03-25,Amul Milk 500ml,Dairy,40.0,0,71,1,0,0,5
+2025-03-26,Amul Milk 500ml,Dairy,34.0,15,38,2,0,0,14
+2025-03-27,Amul Milk 500ml,Dairy,38.0,5,22,3,0,0,12
+2025-03-28,Amul Milk 500ml,Dairy,34.0,15,79,4,0,0,14
+2025-03-29,Amul Milk 500ml,Dairy,40.0,0,42,5,1,0,9
+2025-03-30,Amul Milk 500ml,Dairy,32.0,20,45,6,1,0,22
+2025-03-31,Amul Milk 500ml,Dairy,32.0,20,79,0,0,0,19
+2025-04-01,Amul Milk 500ml,Dairy,38.0,5,92,1,0,0,5
+2025-04-02,Amul Milk 500ml,Dairy,36.0,10,64,2,0,0,16
+2025-04-03,Amul Milk 500ml,Dairy,32.0,20,89,3,0,0,20
+2025-04-04,Amul Milk 500ml,Dairy,38.0,5,80,4,0,0,13
+2025-04-05,Amul Milk 500ml,Dairy,40.0,0,92,5,1,0,14
+2025-04-06,Amul Milk 500ml,Dairy,34.0,15,72,6,1,0,19
+2025-04-07,Amul Milk 500ml,Dairy,40.0,0,78,0,0,0,12
+2025-04-08,Amul Milk 500ml,Dairy,36.0,10,60,1,0,0,18
+2025-04-09,Amul Milk 500ml,Dairy,40.0,0,47,2,0,0,9
+2025-04-10,Amul Milk 500ml,Dairy,38.0,5,94,3,0,0,11
+2025-04-11,Amul Milk 500ml,Dairy,32.0,20,65,4,0,0,15
+2025-04-12,Amul Milk 500ml,Dairy,40.0,0,85,5,1,0,13
+2025-04-13,Amul Milk 500ml,Dairy,36.0,10,34,6,1,0,17
+2025-04-14,Amul Milk 500ml,Dairy,40.0,0,72,0,0,0,13
+2025-04-15,Amul Milk 500ml,Dairy,32.0,20,88,1,0,0,21
+2025-04-16,Amul Milk 500ml,Dairy,40.0,0,21,2,0,0,10
+2025-04-17,Amul Milk 500ml,Dairy,34.0,15,90,3,0,0,14
+2025-04-18,Amul Milk 500ml,Dairy,40.0,0,25,4,0,0,15
+2025-04-19,Amul Milk 500ml,Dairy,36.0,10,68,5,1,0,15
+2025-04-20,Amul Milk 500ml,Dairy,40.0,0,92,6,1,0,12
+2025-04-21,Amul Milk 500ml,Dairy,40.0,0,94,0,0,0,9
+2025-04-22,Amul Milk 500ml,Dairy,40.0,0,78,1,0,0,14
+2025-04-23,Amul Milk 500ml,Dairy,36.0,10,43,2,0,0,13
+2025-04-24,Amul Milk 500ml,Dairy,36.0,10,50,3,0,0,12
+2025-04-25,Amul Milk 500ml,Dairy,38.0,5,66,4,0,0,14
+2025-04-26,Amul Milk 500ml,Dairy,40.0,0,55,5,1,0,13
+2025-04-27,Amul Milk 500ml,Dairy,40.0,0,95,6,1,0,16
+2025-04-28,Amul Milk 500ml,Dairy,32.0,20,26,0,0,0,21
+2025-04-29,Amul Milk 500ml,Dairy,38.0,5,49,1,0,0,9
+2025-04-30,Amul Milk 500ml,Dairy,40.0,0,60,2,0,0,3
+2025-05-01,Amul Milk 500ml,Dairy,40.0,0,45,3,0,0,6
+2025-05-02,Amul Milk 500ml,Dairy,38.0,5,89,4,0,0,10
+2025-05-03,Amul Milk 500ml,Dairy,38.0,5,50,5,1,0,20
+2025-05-04,Amul Milk 500ml,Dairy,38.0,5,47,6,1,0,15
+2025-05-05,Amul Milk 500ml,Dairy,40.0,0,95,0,0,0,9
+2025-05-06,Amul Milk 500ml,Dairy,36.0,10,31,1,0,0,18
+2025-05-07,Amul Milk 500ml,Dairy,32.0,20,58,2,0,0,17
+2025-05-08,Amul Milk 500ml,Dairy,38.0,5,52,3,0,0,7
+2025-05-09,Amul Milk 500ml,Dairy,40.0,0,24,4,0,0,8
+2025-05-10,Amul Milk 500ml,Dairy,40.0,0,56,5,1,0,5
+2025-05-11,Amul Milk 500ml,Dairy,36.0,10,82,6,1,0,22
+2025-05-12,Amul Milk 500ml,Dairy,40.0,0,54,0,0,0,13
+2025-05-13,Amul Milk 500ml,Dairy,40.0,0,66,1,0,0,9
+2025-05-14,Amul Milk 500ml,Dairy,34.0,15,31,2,0,0,21
+2025-05-15,Amul Milk 500ml,Dairy,32.0,20,48,3,0,0,17
+2025-05-16,Amul Milk 500ml,Dairy,36.0,10,31,4,0,0,13
+2025-05-17,Amul Milk 500ml,Dairy,34.0,15,75,5,1,0,16
+2025-05-18,Amul Milk 500ml,Dairy,40.0,0,40,6,1,0,9
+2025-05-19,Amul Milk 500ml,Dairy,40.0,0,36,0,0,0,9
+2025-05-20,Amul Milk 500ml,Dairy,40.0,0,87,1,0,0,14
+2025-05-21,Amul Milk 500ml,Dairy,36.0,10,86,2,0,0,14
+2025-05-22,Amul Milk 500ml,Dairy,34.0,15,31,3,0,0,17
+2025-05-23,Amul Milk 500ml,Dairy,40.0,0,70,4,0,0,11
+2025-05-24,Amul Milk 500ml,Dairy,36.0,10,41,5,1,0,12
+2025-05-25,Amul Milk 500ml,Dairy,40.0,0,30,6,1,0,10
+2025-05-26,Amul Milk 500ml,Dairy,40.0,0,40,0,0,0,10
+2025-05-27,Amul Milk 500ml,Dairy,32.0,20,77,1,0,0,19
+2025-05-28,Amul Milk 500ml,Dairy,40.0,0,80,2,0,0,10
+2025-05-29,Amul Milk 500ml,Dairy,38.0,5,60,3,0,0,15
+2025-05-30,Amul Milk 500ml,Dairy,32.0,20,32,4,0,0,18
+2025-05-31,Amul Milk 500ml,Dairy,40.0,0,88,5,1,0,11
+2025-06-01,Amul Milk 500ml,Dairy,40.0,0,54,6,1,0,14
+2025-06-02,Amul Milk 500ml,Dairy,40.0,0,28,0,0,0,16
+2025-06-03,Amul Milk 500ml,Dairy,38.0,5,45,1,0,0,15
+2025-06-04,Amul Milk 500ml,Dairy,40.0,0,92,2,0,0,8
+2025-06-05,Amul Milk 500ml,Dairy,40.0,0,95,3,0,0,11
+2025-06-06,Amul Milk 500ml,Dairy,40.0,0,48,4,0,0,10
+2025-06-07,Amul Milk 500ml,Dairy,34.0,15,39,5,1,0,13
+2025-06-08,Amul Milk 500ml,Dairy,38.0,5,31,6,1,0,14
+2025-06-09,Amul Milk 500ml,Dairy,32.0,20,62,0,0,0,19
+2025-06-10,Amul Milk 500ml,Dairy,36.0,10,70,1,0,0,11
+2025-06-11,Amul Milk 500ml,Dairy,40.0,0,33,2,0,0,8
+2025-06-12,Amul Milk 500ml,Dairy,38.0,5,38,3,0,0,11
+2025-06-13,Amul Milk 500ml,Dairy,40.0,0,63,4,0,0,10
+2025-06-14,Amul Milk 500ml,Dairy,32.0,20,94,5,1,0,21
+2025-06-15,Amul Milk 500ml,Dairy,36.0,10,64,6,1,0,15
+2025-06-16,Amul Milk 500ml,Dairy,32.0,20,97,0,0,0,22
+2025-06-17,Amul Milk 500ml,Dairy,36.0,10,27,1,0,0,15
+2025-06-18,Amul Milk 500ml,Dairy,38.0,5,85,2,0,0,16
+2025-06-19,Amul Milk 500ml,Dairy,36.0,10,59,3,0,0,16
+2025-06-20,Amul Milk 500ml,Dairy,38.0,5,68,4,0,0,7
+2025-06-21,Amul Milk 500ml,Dairy,32.0,20,35,5,1,0,22
+2025-06-22,Amul Milk 500ml,Dairy,34.0,15,27,6,1,0,15
+2025-06-23,Amul Milk 500ml,Dairy,38.0,5,36,0,0,0,14
+2025-06-24,Amul Milk 500ml,Dairy,36.0,10,70,1,0,0,10
+2025-06-25,Amul Milk 500ml,Dairy,40.0,0,43,2,0,0,10
+2025-06-26,Amul Milk 500ml,Dairy,36.0,10,80,3,0,0,12
+2025-06-27,Amul Milk 500ml,Dairy,38.0,5,40,4,0,0,14
+2024-12-29,Britannia Bread,Bakery,30.0,0,31,6,1,0,16
+2024-12-30,Britannia Bread,Bakery,28.5,5,37,0,0,0,11
+2024-12-31,Britannia Bread,Bakery,25.5,15,20,1,0,0,13
+2025-01-01,Britannia Bread,Bakery,28.5,5,99,2,0,0,12
+2025-01-02,Britannia Bread,Bakery,28.5,5,67,3,0,0,6
+2025-01-03,Britannia Bread,Bakery,24.0,20,44,4,0,0,17
+2025-01-04,Britannia Bread,Bakery,27.0,10,98,5,1,0,12
+2025-01-05,Britannia Bread,Bakery,25.5,15,59,6,1,0,19
+2025-01-06,Britannia Bread,Bakery,28.5,5,21,0,0,0,15
+2025-01-07,Britannia Bread,Bakery,25.5,15,48,1,0,0,13
+2025-01-08,Britannia Bread,Bakery,28.5,5,23,2,0,0,12
+2025-01-09,Britannia Bread,Bakery,24.0,20,27,3,0,0,18
+2025-01-10,Britannia Bread,Bakery,30.0,0,54,4,0,0,9
+2025-01-11,Britannia Bread,Bakery,28.5,5,92,5,1,0,20
+2025-01-12,Britannia Bread,Bakery,24.0,20,43,6,1,0,23
+2025-01-13,Britannia Bread,Bakery,24.0,20,29,0,0,0,18
+2025-01-14,Britannia Bread,Bakery,30.0,0,52,1,0,0,4
+2025-01-15,Britannia Bread,Bakery,24.0,20,79,2,0,0,19
+2025-01-16,Britannia Bread,Bakery,27.0,10,87,3,0,0,19
+2025-01-17,Britannia Bread,Bakery,24.0,20,71,4,0,0,22
+2025-01-18,Britannia Bread,Bakery,30.0,0,74,5,1,0,13
+2025-01-19,Britannia Bread,Bakery,28.5,5,20,6,1,0,15
+2025-01-20,Britannia Bread,Bakery,27.0,10,23,0,0,0,14
+2025-01-21,Britannia Bread,Bakery,24.0,20,31,1,0,0,21
+2025-01-22,Britannia Bread,Bakery,30.0,0,85,2,0,0,6
+2025-01-23,Britannia Bread,Bakery,27.0,10,91,3,0,0,15
+2025-01-24,Britannia Bread,Bakery,27.0,10,98,4,0,0,10
+2025-01-25,Britannia Bread,Bakery,30.0,0,54,5,1,0,9
+2025-01-26,Britannia Bread,Bakery,27.0,10,89,6,1,0,11
+2025-01-27,Britannia Bread,Bakery,30.0,0,21,0,0,0,9
+2025-01-28,Britannia Bread,Bakery,27.0,10,99,1,0,0,14
+2025-01-29,Britannia Bread,Bakery,28.5,5,99,2,0,0,15
+2025-01-30,Britannia Bread,Bakery,25.5,15,29,3,0,0,15
+2025-01-31,Britannia Bread,Bakery,30.0,0,98,4,0,0,8
+2025-02-01,Britannia Bread,Bakery,30.0,0,84,5,1,0,17
+2025-02-02,Britannia Bread,Bakery,25.5,15,41,6,1,0,21
+2025-02-03,Britannia Bread,Bakery,27.0,10,85,0,0,0,13
+2025-02-04,Britannia Bread,Bakery,27.0,10,68,1,0,0,17
+2025-02-05,Britannia Bread,Bakery,30.0,0,63,2,0,0,14
+2025-02-06,Britannia Bread,Bakery,27.0,10,60,3,0,0,12
+2025-02-07,Britannia Bread,Bakery,30.0,0,24,4,0,0,15
+2025-02-08,Britannia Bread,Bakery,28.5,5,69,5,1,0,17
+2025-02-09,Britannia Bread,Bakery,30.0,0,25,6,1,0,12
+2025-02-10,Britannia Bread,Bakery,30.0,0,52,0,0,0,13
+2025-02-11,Britannia Bread,Bakery,30.0,0,57,1,0,0,17
+2025-02-12,Britannia Bread,Bakery,27.0,10,48,2,0,0,13
+2025-02-13,Britannia Bread,Bakery,30.0,0,95,3,0,0,8
+2025-02-14,Britannia Bread,Bakery,30.0,0,56,4,0,0,11
+2025-02-15,Britannia Bread,Bakery,28.5,5,62,5,1,0,9
+2025-02-16,Britannia Bread,Bakery,27.0,10,74,6,1,0,16
+2025-02-17,Britannia Bread,Bakery,27.0,10,21,0,0,0,14
+2025-02-18,Britannia Bread,Bakery,28.5,5,75,1,0,0,15
+2025-02-19,Britannia Bread,Bakery,30.0,0,89,2,0,0,14
+2025-02-20,Britannia Bread,Bakery,24.0,20,80,3,0,0,18
+2025-02-21,Britannia Bread,Bakery,28.5,5,45,4,0,0,9
+2025-02-22,Britannia Bread,Bakery,30.0,0,90,5,1,0,13
+2025-02-23,Britannia Bread,Bakery,30.0,0,64,6,1,0,11
+2025-02-24,Britannia Bread,Bakery,30.0,0,49,0,0,0,10
+2025-02-25,Britannia Bread,Bakery,30.0,0,63,1,0,0,7
+2025-02-26,Britannia Bread,Bakery,30.0,0,28,2,0,0,11
+2025-02-27,Britannia Bread,Bakery,27.0,10,52,3,0,0,9
+2025-02-28,Britannia Bread,Bakery,25.5,15,41,4,0,0,17
+2025-03-01,Britannia Bread,Bakery,30.0,0,29,5,1,0,11
+2025-03-02,Britannia Bread,Bakery,27.0,10,43,6,1,0,23
+2025-03-03,Britannia Bread,Bakery,30.0,0,59,0,0,0,10
+2025-03-04,Britannia Bread,Bakery,27.0,10,86,1,0,0,14
+2025-03-05,Britannia Bread,Bakery,30.0,0,75,2,0,0,15
+2025-03-06,Britannia Bread,Bakery,30.0,0,65,3,0,0,10
+2025-03-07,Britannia Bread,Bakery,27.0,10,33,4,0,0,14
+2025-03-08,Britannia Bread,Bakery,30.0,0,47,5,1,0,16
+2025-03-09,Britannia Bread,Bakery,30.0,0,86,6,1,0,8
+2025-03-10,Britannia Bread,Bakery,24.0,20,43,0,0,0,16
+2025-03-11,Britannia Bread,Bakery,30.0,0,54,1,0,0,8
+2025-03-12,Britannia Bread,Bakery,30.0,0,29,2,0,0,9
+2025-03-13,Britannia Bread,Bakery,27.0,10,59,3,0,0,16
+2025-03-14,Britannia Bread,Bakery,30.0,0,35,4,0,0,11
+2025-03-15,Britannia Bread,Bakery,30.0,0,81,5,1,0,15
+2025-03-16,Britannia Bread,Bakery,28.5,5,71,6,1,0,11
+2025-03-17,Britannia Bread,Bakery,27.0,10,51,0,0,0,14
+2025-03-18,Britannia Bread,Bakery,25.5,15,62,1,0,0,14
+2025-03-19,Britannia Bread,Bakery,30.0,0,70,2,0,0,10
+2025-03-20,Britannia Bread,Bakery,30.0,0,57,3,0,0,7
+2025-03-21,Britannia Bread,Bakery,30.0,0,83,4,0,0,5
+2025-03-22,Britannia Bread,Bakery,30.0,0,22,5,1,0,10
+2025-03-23,Britannia Bread,Bakery,30.0,0,40,6,1,0,16
+2025-03-24,Britannia Bread,Bakery,30.0,0,21,0,0,0,12
+2025-03-25,Britannia Bread,Bakery,28.5,5,47,1,0,0,10
+2025-03-26,Britannia Bread,Bakery,30.0,0,27,2,0,0,12
+2025-03-27,Britannia Bread,Bakery,30.0,0,69,3,0,0,8
+2025-03-28,Britannia Bread,Bakery,24.0,20,66,4,0,0,20
+2025-03-29,Britannia Bread,Bakery,30.0,0,65,5,1,0,10
+2025-03-30,Britannia Bread,Bakery,24.0,20,66,6,1,0,19
+2025-03-31,Britannia Bread,Bakery,30.0,0,54,0,0,0,9
+2025-04-01,Britannia Bread,Bakery,28.5,5,29,1,0,0,12
+2025-04-02,Britannia Bread,Bakery,27.0,10,23,2,0,0,15
+2025-04-03,Britannia Bread,Bakery,27.0,10,27,3,0,0,11
+2025-04-04,Britannia Bread,Bakery,24.0,20,51,4,0,0,18
+2025-04-05,Britannia Bread,Bakery,30.0,0,77,5,1,0,11
+2025-04-06,Britannia Bread,Bakery,25.5,15,73,6,1,0,21
+2025-04-07,Britannia Bread,Bakery,27.0,10,54,0,0,0,16
+2025-04-08,Britannia Bread,Bakery,30.0,0,55,1,0,0,10
+2025-04-09,Britannia Bread,Bakery,28.5,5,27,2,0,0,8
+2025-04-10,Britannia Bread,Bakery,30.0,0,59,3,0,0,12
+2025-04-11,Britannia Bread,Bakery,30.0,0,26,4,0,0,15
+2025-04-12,Britannia Bread,Bakery,27.0,10,64,5,1,0,15
+2025-04-13,Britannia Bread,Bakery,28.5,5,99,6,1,0,13
+2025-04-14,Britannia Bread,Bakery,28.5,5,95,0,0,0,10
+2025-04-15,Britannia Bread,Bakery,27.0,10,91,1,0,0,14
+2025-04-16,Britannia Bread,Bakery,30.0,0,64,2,0,0,3
+2025-04-17,Britannia Bread,Bakery,30.0,0,98,3,0,0,12
+2025-04-18,Britannia Bread,Bakery,30.0,0,37,4,0,0,11
+2025-04-19,Britannia Bread,Bakery,28.5,5,49,5,1,0,16
+2025-04-20,Britannia Bread,Bakery,28.5,5,68,6,1,0,21
+2025-04-21,Britannia Bread,Bakery,30.0,0,84,0,0,0,12
+2025-04-22,Britannia Bread,Bakery,27.0,10,25,1,0,0,15
+2025-04-23,Britannia Bread,Bakery,28.5,5,43,2,0,0,14
+2025-04-24,Britannia Bread,Bakery,28.5,5,79,3,0,0,13
+2025-04-25,Britannia Bread,Bakery,28.5,5,44,4,0,0,11
+2025-04-26,Britannia Bread,Bakery,28.5,5,42,5,1,0,16
+2025-04-27,Britannia Bread,Bakery,28.5,5,80,6,1,0,18
+2025-04-28,Britannia Bread,Bakery,27.0,10,38,0,0,0,17
+2025-04-29,Britannia Bread,Bakery,30.0,0,98,1,0,0,7
+2025-04-30,Britannia Bread,Bakery,28.5,5,26,2,0,0,17
+2025-05-01,Britannia Bread,Bakery,24.0,20,34,3,0,0,20
+2025-05-02,Britannia Bread,Bakery,30.0,0,68,4,0,0,15
+2025-05-03,Britannia Bread,Bakery,27.0,10,42,5,1,0,16
+2025-05-04,Britannia Bread,Bakery,28.5,5,65,6,1,0,17
+2025-05-05,Britannia Bread,Bakery,25.5,15,73,0,0,0,17
+2025-05-06,Britannia Bread,Bakery,24.0,20,36,1,0,0,15
+2025-05-07,Britannia Bread,Bakery,30.0,0,62,2,0,0,9
+2025-05-08,Britannia Bread,Bakery,28.5,5,97,3,0,0,17
+2025-05-09,Britannia Bread,Bakery,30.0,0,85,4,0,0,8
+2025-05-10,Britannia Bread,Bakery,25.5,15,35,5,1,0,20
+2025-05-11,Britannia Bread,Bakery,30.0,0,59,6,1,0,12
+2025-05-12,Britannia Bread,Bakery,28.5,5,99,0,0,0,11
+2025-05-13,Britannia Bread,Bakery,28.5,5,21,1,0,0,8
+2025-05-14,Britannia Bread,Bakery,25.5,15,43,2,0,0,19
+2025-05-15,Britannia Bread,Bakery,30.0,0,32,3,0,0,13
+2025-05-16,Britannia Bread,Bakery,27.0,10,49,4,0,0,18
+2025-05-17,Britannia Bread,Bakery,27.0,10,25,5,1,0,16
+2025-05-18,Britannia Bread,Bakery,24.0,20,54,6,1,0,21
+2025-05-19,Britannia Bread,Bakery,24.0,20,65,0,0,0,17
+2025-05-20,Britannia Bread,Bakery,24.0,20,67,1,0,0,18
+2025-05-21,Britannia Bread,Bakery,28.5,5,50,2,0,0,11
+2025-05-22,Britannia Bread,Bakery,25.5,15,61,3,0,0,18
+2025-05-23,Britannia Bread,Bakery,30.0,0,77,4,0,0,5
+2025-05-24,Britannia Bread,Bakery,30.0,0,57,5,1,0,13
+2025-05-25,Britannia Bread,Bakery,30.0,0,86,6,1,0,18
+2025-05-26,Britannia Bread,Bakery,30.0,0,84,0,0,0,8
+2025-05-27,Britannia Bread,Bakery,27.0,10,91,1,0,0,10
+2025-05-28,Britannia Bread,Bakery,24.0,20,78,2,0,0,22
+2025-05-29,Britannia Bread,Bakery,30.0,0,48,3,0,0,11
+2025-05-30,Britannia Bread,Bakery,27.0,10,73,4,0,0,17
+2025-05-31,Britannia Bread,Bakery,28.5,5,34,5,1,0,15
+2025-06-01,Britannia Bread,Bakery,30.0,0,82,6,1,0,12
+2025-06-02,Britannia Bread,Bakery,30.0,0,37,0,0,0,12
+2025-06-03,Britannia Bread,Bakery,27.0,10,89,1,0,0,13
+2025-06-04,Britannia Bread,Bakery,28.5,5,96,2,0,0,15
+2025-06-05,Britannia Bread,Bakery,27.0,10,96,3,0,0,14
+2025-06-06,Britannia Bread,Bakery,30.0,0,57,4,0,0,7
+2025-06-07,Britannia Bread,Bakery,30.0,0,80,5,1,0,12
+2025-06-08,Britannia Bread,Bakery,30.0,0,72,6,1,0,12
+2025-06-09,Britannia Bread,Bakery,27.0,10,58,0,0,0,10
+2025-06-10,Britannia Bread,Bakery,27.0,10,80,1,0,0,12
+2025-06-11,Britannia Bread,Bakery,27.0,10,45,2,0,0,9
+2025-06-12,Britannia Bread,Bakery,24.0,20,40,3,0,0,17
+2025-06-13,Britannia Bread,Bakery,30.0,0,53,4,0,0,13
+2025-06-14,Britannia Bread,Bakery,30.0,0,69,5,1,0,15
+2025-06-15,Britannia Bread,Bakery,24.0,20,79,6,1,0,16
+2025-06-16,Britannia Bread,Bakery,25.5,15,80,0,0,0,17
+2025-06-17,Britannia Bread,Bakery,30.0,0,81,1,0,0,9
+2025-06-18,Britannia Bread,Bakery,25.5,15,20,2,0,0,14
+2025-06-19,Britannia Bread,Bakery,27.0,10,26,3,0,0,10
+2025-06-20,Britannia Bread,Bakery,25.5,15,72,4,0,0,17
+2025-06-21,Britannia Bread,Bakery,27.0,10,28,5,1,0,16
+2025-06-22,Britannia Bread,Bakery,27.0,10,32,6,1,0,16
+2025-06-23,Britannia Bread,Bakery,27.0,10,46,0,0,0,14
+2025-06-24,Britannia Bread,Bakery,28.5,5,65,1,0,0,19
+2025-06-25,Britannia Bread,Bakery,27.0,10,53,2,0,0,9
+2025-06-26,Britannia Bread,Bakery,27.0,10,84,3,0,0,13
+2025-06-27,Britannia Bread,Bakery,30.0,0,67,4,0,0,9
+2024-12-29,Lays Chips,Snacks,20.0,0,62,6,1,0,18
+2024-12-30,Lays Chips,Snacks,17.0,15,43,0,0,0,22
+2024-12-31,Lays Chips,Snacks,19.0,5,73,1,0,0,13
+2025-01-01,Lays Chips,Snacks,18.0,10,21,2,0,0,15
+2025-01-02,Lays Chips,Snacks,19.0,5,29,3,0,0,11
+2025-01-03,Lays Chips,Snacks,20.0,0,63,4,0,0,15
+2025-01-04,Lays Chips,Snacks,17.0,15,64,5,1,0,18
+2025-01-05,Lays Chips,Snacks,20.0,0,55,6,1,0,14
+2025-01-06,Lays Chips,Snacks,20.0,0,53,0,0,0,10
+2025-01-07,Lays Chips,Snacks,16.0,20,45,1,0,0,17
+2025-01-08,Lays Chips,Snacks,20.0,0,39,2,0,0,11
+2025-01-09,Lays Chips,Snacks,19.0,5,95,3,0,0,19
+2025-01-10,Lays Chips,Snacks,19.0,5,39,4,0,0,10
+2025-01-11,Lays Chips,Snacks,19.0,5,43,5,1,0,14
+2025-01-12,Lays Chips,Snacks,16.0,20,80,6,1,0,24
+2025-01-13,Lays Chips,Snacks,19.0,5,22,0,0,0,10
+2025-01-14,Lays Chips,Snacks,19.0,5,90,1,0,0,20
+2025-01-15,Lays Chips,Snacks,18.0,10,87,2,0,0,16
+2025-01-16,Lays Chips,Snacks,17.0,15,75,3,0,0,22
+2025-01-17,Lays Chips,Snacks,18.0,10,44,4,0,0,17
+2025-01-18,Lays Chips,Snacks,20.0,0,57,5,1,0,16
+2025-01-19,Lays Chips,Snacks,16.0,20,29,6,1,0,27
+2025-01-20,Lays Chips,Snacks,19.0,5,27,0,0,0,16
+2025-01-21,Lays Chips,Snacks,19.0,5,95,1,0,0,9
+2025-01-22,Lays Chips,Snacks,20.0,0,74,2,0,0,15
+2025-01-23,Lays Chips,Snacks,19.0,5,85,3,0,0,15
+2025-01-24,Lays Chips,Snacks,17.0,15,72,4,0,0,20
+2025-01-25,Lays Chips,Snacks,20.0,0,30,5,1,0,10
+2025-01-26,Lays Chips,Snacks,20.0,0,77,6,1,0,10
+2025-01-27,Lays Chips,Snacks,18.0,10,73,0,0,0,11
+2025-01-28,Lays Chips,Snacks,19.0,5,74,1,0,0,18
+2025-01-29,Lays Chips,Snacks,19.0,5,47,2,0,0,20
+2025-01-30,Lays Chips,Snacks,20.0,0,84,3,0,0,17
+2025-01-31,Lays Chips,Snacks,19.0,5,55,4,0,0,8
+2025-02-01,Lays Chips,Snacks,20.0,0,39,5,1,0,18
+2025-02-02,Lays Chips,Snacks,17.0,15,88,6,1,0,24
+2025-02-03,Lays Chips,Snacks,19.0,5,25,0,0,0,11
+2025-02-04,Lays Chips,Snacks,18.0,10,59,1,0,0,18
+2025-02-05,Lays Chips,Snacks,19.0,5,24,2,0,0,15
+2025-02-06,Lays Chips,Snacks,19.0,5,50,3,0,0,18
+2025-02-07,Lays Chips,Snacks,20.0,0,56,4,0,0,8
+2025-02-08,Lays Chips,Snacks,20.0,0,22,5,1,0,15
+2025-02-09,Lays Chips,Snacks,18.0,10,41,6,1,0,19
+2025-02-10,Lays Chips,Snacks,19.0,5,60,0,0,0,15
+2025-02-11,Lays Chips,Snacks,19.0,5,62,1,0,0,10
+2025-02-12,Lays Chips,Snacks,20.0,0,72,2,0,0,14
+2025-02-13,Lays Chips,Snacks,20.0,0,99,3,0,0,9
+2025-02-14,Lays Chips,Snacks,18.0,10,48,4,0,0,19
+2025-02-15,Lays Chips,Snacks,20.0,0,92,5,1,0,15
+2025-02-16,Lays Chips,Snacks,20.0,0,77,6,1,0,9
+2025-02-17,Lays Chips,Snacks,18.0,10,98,0,0,0,19
+2025-02-18,Lays Chips,Snacks,20.0,0,34,1,0,0,16
+2025-02-19,Lays Chips,Snacks,16.0,20,63,2,0,0,22
+2025-02-20,Lays Chips,Snacks,19.0,5,74,3,0,0,17
+2025-02-21,Lays Chips,Snacks,16.0,20,80,4,0,0,23
+2025-02-22,Lays Chips,Snacks,18.0,10,32,5,1,0,20
+2025-02-23,Lays Chips,Snacks,19.0,5,45,6,1,0,14
+2025-02-24,Lays Chips,Snacks,18.0,10,24,0,0,0,16
+2025-02-25,Lays Chips,Snacks,20.0,0,87,1,0,0,11
+2025-02-26,Lays Chips,Snacks,18.0,10,49,2,0,0,16
+2025-02-27,Lays Chips,Snacks,20.0,0,76,3,0,0,11
+2025-02-28,Lays Chips,Snacks,19.0,5,25,4,0,0,10
+2025-03-01,Lays Chips,Snacks,18.0,10,93,5,1,0,20
+2025-03-02,Lays Chips,Snacks,19.0,5,49,6,1,0,16
+2025-03-03,Lays Chips,Snacks,18.0,10,62,0,0,0,14
+2025-03-04,Lays Chips,Snacks,19.0,5,20,1,0,0,13
+2025-03-05,Lays Chips,Snacks,20.0,0,44,2,0,0,10
+2025-03-06,Lays Chips,Snacks,19.0,5,69,3,0,0,15
+2025-03-07,Lays Chips,Snacks,19.0,5,68,4,0,0,13
+2025-03-08,Lays Chips,Snacks,16.0,20,53,5,1,0,23
+2025-03-09,Lays Chips,Snacks,18.0,10,87,6,1,0,20
+2025-03-10,Lays Chips,Snacks,16.0,20,23,0,0,0,24
+2025-03-11,Lays Chips,Snacks,18.0,10,32,1,0,0,19
+2025-03-12,Lays Chips,Snacks,20.0,0,75,2,0,0,11
+2025-03-13,Lays Chips,Snacks,19.0,5,47,3,0,0,13
+2025-03-14,Lays Chips,Snacks,19.0,5,98,4,0,0,16
+2025-03-15,Lays Chips,Snacks,19.0,5,22,5,1,0,18
+2025-03-16,Lays Chips,Snacks,19.0,5,55,6,1,0,16
+2025-03-17,Lays Chips,Snacks,20.0,0,73,0,0,0,14
+2025-03-18,Lays Chips,Snacks,16.0,20,82,1,0,0,20
+2025-03-19,Lays Chips,Snacks,19.0,5,25,2,0,0,13
+2025-03-20,Lays Chips,Snacks,16.0,20,84,3,0,0,19
+2025-03-21,Lays Chips,Snacks,17.0,15,34,4,0,0,18
+2025-03-22,Lays Chips,Snacks,17.0,15,56,5,1,0,25
+2025-03-23,Lays Chips,Snacks,19.0,5,66,6,1,0,17
+2025-03-24,Lays Chips,Snacks,20.0,0,90,0,0,0,7
+2025-03-25,Lays Chips,Snacks,17.0,15,44,1,0,0,19
+2025-03-26,Lays Chips,Snacks,18.0,10,80,2,0,0,16
+2025-03-27,Lays Chips,Snacks,20.0,0,33,3,0,0,14
+2025-03-28,Lays Chips,Snacks,20.0,0,20,4,0,0,16
+2025-03-29,Lays Chips,Snacks,20.0,0,56,5,1,0,15
+2025-03-30,Lays Chips,Snacks,20.0,0,95,6,1,0,18
+2025-03-31,Lays Chips,Snacks,19.0,5,77,0,0,0,9
+2025-04-01,Lays Chips,Snacks,17.0,15,69,1,0,0,23
+2025-04-02,Lays Chips,Snacks,17.0,15,44,2,0,0,19
+2025-04-03,Lays Chips,Snacks,20.0,0,20,3,0,0,11
+2025-04-04,Lays Chips,Snacks,16.0,20,71,4,0,0,22
+2025-04-05,Lays Chips,Snacks,16.0,20,55,5,1,0,29
+2025-04-06,Lays Chips,Snacks,17.0,15,69,6,1,0,26
+2025-04-07,Lays Chips,Snacks,20.0,0,45,0,0,0,10
+2025-04-08,Lays Chips,Snacks,20.0,0,24,1,0,0,13
+2025-04-09,Lays Chips,Snacks,16.0,20,54,2,0,0,16
+2025-04-10,Lays Chips,Snacks,16.0,20,85,3,0,0,21
+2025-04-11,Lays Chips,Snacks,19.0,5,60,4,0,0,13
+2025-04-12,Lays Chips,Snacks,18.0,10,39,5,1,0,24
+2025-04-13,Lays Chips,Snacks,20.0,0,77,6,1,0,20
+2025-04-14,Lays Chips,Snacks,20.0,0,79,0,0,0,8
+2025-04-15,Lays Chips,Snacks,20.0,0,96,1,0,0,13
+2025-04-16,Lays Chips,Snacks,18.0,10,97,2,0,0,17
+2025-04-17,Lays Chips,Snacks,16.0,20,25,3,0,0,22
+2025-04-18,Lays Chips,Snacks,18.0,10,26,4,0,0,15
+2025-04-19,Lays Chips,Snacks,20.0,0,40,5,1,0,17
+2025-04-20,Lays Chips,Snacks,20.0,0,77,6,1,0,19
+2025-04-21,Lays Chips,Snacks,20.0,0,78,0,0,0,12
+2025-04-22,Lays Chips,Snacks,17.0,15,48,1,0,0,19
+2025-04-23,Lays Chips,Snacks,20.0,0,61,2,0,0,10
+2025-04-24,Lays Chips,Snacks,19.0,5,75,3,0,0,18
+2025-04-25,Lays Chips,Snacks,20.0,0,54,4,0,0,13
+2025-04-26,Lays Chips,Snacks,20.0,0,66,5,1,0,16
+2025-04-27,Lays Chips,Snacks,17.0,15,28,6,1,0,21
+2025-04-28,Lays Chips,Snacks,20.0,0,61,0,0,0,12
+2025-04-29,Lays Chips,Snacks,18.0,10,67,1,0,0,17
+2025-04-30,Lays Chips,Snacks,20.0,0,71,2,0,0,9
+2025-05-01,Lays Chips,Snacks,18.0,10,38,3,0,0,16
+2025-05-02,Lays Chips,Snacks,18.0,10,80,4,0,0,17
+2025-05-03,Lays Chips,Snacks,17.0,15,54,5,1,0,27
+2025-05-04,Lays Chips,Snacks,17.0,15,66,6,1,0,19
+2025-05-05,Lays Chips,Snacks,17.0,15,71,0,0,0,16
+2025-05-06,Lays Chips,Snacks,20.0,0,81,1,0,0,8
+2025-05-07,Lays Chips,Snacks,20.0,0,32,2,0,0,10
+2025-05-08,Lays Chips,Snacks,18.0,10,90,3,0,0,18
+2025-05-09,Lays Chips,Snacks,20.0,0,32,4,0,0,14
+2025-05-10,Lays Chips,Snacks,17.0,15,47,5,1,0,18
+2025-05-11,Lays Chips,Snacks,19.0,5,78,6,1,0,18
+2025-05-12,Lays Chips,Snacks,16.0,20,69,0,0,0,23
+2025-05-13,Lays Chips,Snacks,20.0,0,84,1,0,0,15
+2025-05-14,Lays Chips,Snacks,19.0,5,34,2,0,0,12
+2025-05-15,Lays Chips,Snacks,20.0,0,89,3,0,0,6
+2025-05-16,Lays Chips,Snacks,19.0,5,51,4,0,0,11
+2025-05-17,Lays Chips,Snacks,16.0,20,84,5,1,0,24
+2025-05-18,Lays Chips,Snacks,20.0,0,79,6,1,0,14
+2025-05-19,Lays Chips,Snacks,20.0,0,65,0,0,0,11
+2025-05-20,Lays Chips,Snacks,18.0,10,84,1,0,0,21
+2025-05-21,Lays Chips,Snacks,18.0,10,97,2,0,0,17
+2025-05-22,Lays Chips,Snacks,19.0,5,30,3,0,0,15
+2025-05-23,Lays Chips,Snacks,20.0,0,52,4,0,0,15
+2025-05-24,Lays Chips,Snacks,18.0,10,32,5,1,0,16
+2025-05-25,Lays Chips,Snacks,20.0,0,37,6,1,0,19
+2025-05-26,Lays Chips,Snacks,20.0,0,35,0,0,0,6
+2025-05-27,Lays Chips,Snacks,20.0,0,74,1,0,0,13
+2025-05-28,Lays Chips,Snacks,17.0,15,80,2,0,0,19
+2025-05-29,Lays Chips,Snacks,16.0,20,70,3,0,0,23
+2025-05-30,Lays Chips,Snacks,17.0,15,28,4,0,0,20
+2025-05-31,Lays Chips,Snacks,19.0,5,43,5,1,0,17
+2025-06-01,Lays Chips,Snacks,19.0,5,37,6,1,0,24
+2025-06-02,Lays Chips,Snacks,19.0,5,26,0,0,0,15
+2025-06-03,Lays Chips,Snacks,19.0,5,51,1,0,0,17
+2025-06-04,Lays Chips,Snacks,17.0,15,70,2,0,0,18
+2025-06-05,Lays Chips,Snacks,19.0,5,80,3,0,0,16
+2025-06-06,Lays Chips,Snacks,20.0,0,41,4,0,0,7
+2025-06-07,Lays Chips,Snacks,16.0,20,50,5,1,0,24
+2025-06-08,Lays Chips,Snacks,19.0,5,31,6,1,0,20
+2025-06-09,Lays Chips,Snacks,20.0,0,68,0,0,0,15
+2025-06-10,Lays Chips,Snacks,18.0,10,63,1,0,0,10
+2025-06-11,Lays Chips,Snacks,17.0,15,53,2,0,0,17
+2025-06-12,Lays Chips,Snacks,18.0,10,25,3,0,0,17
+2025-06-13,Lays Chips,Snacks,19.0,5,94,4,0,0,10
+2025-06-14,Lays Chips,Snacks,16.0,20,55,5,1,0,26
+2025-06-15,Lays Chips,Snacks,19.0,5,93,6,1,0,15
+2025-06-16,Lays Chips,Snacks,19.0,5,28,0,0,0,15
+2025-06-17,Lays Chips,Snacks,18.0,10,76,1,0,0,19
+2025-06-18,Lays Chips,Snacks,19.0,5,70,2,0,0,6
+2025-06-19,Lays Chips,Snacks,17.0,15,77,3,0,0,15
+2025-06-20,Lays Chips,Snacks,20.0,0,79,4,0,0,11
+2025-06-21,Lays Chips,Snacks,18.0,10,27,5,1,0,14
+2025-06-22,Lays Chips,Snacks,16.0,20,85,6,1,0,27
+2025-06-23,Lays Chips,Snacks,18.0,10,83,0,0,0,17
+2025-06-24,Lays Chips,Snacks,18.0,10,75,1,0,0,18
+2025-06-25,Lays Chips,Snacks,20.0,0,29,2,0,0,10
+2025-06-26,Lays Chips,Snacks,20.0,0,29,3,0,0,9
+2025-06-27,Lays Chips,Snacks,18.0,10,38,4,0,0,19
+2024-12-29,Maaza Bottle,Beverage,20.0,20,68,6,1,0,24
+2024-12-30,Maaza Bottle,Beverage,20.0,20,87,0,0,0,18
+2024-12-31,Maaza Bottle,Beverage,22.5,10,26,1,0,0,18
+2025-01-01,Maaza Bottle,Beverage,25.0,0,63,2,0,0,13
+2025-01-02,Maaza Bottle,Beverage,25.0,0,69,3,0,0,7
+2025-01-03,Maaza Bottle,Beverage,25.0,0,54,4,0,0,16
+2025-01-04,Maaza Bottle,Beverage,23.75,5,67,5,1,0,19
+2025-01-05,Maaza Bottle,Beverage,25.0,0,77,6,1,0,16
+2025-01-06,Maaza Bottle,Beverage,23.75,5,51,0,0,0,13
+2025-01-07,Maaza Bottle,Beverage,23.75,5,32,1,0,0,10
+2025-01-08,Maaza Bottle,Beverage,25.0,0,33,2,0,0,11
+2025-01-09,Maaza Bottle,Beverage,25.0,0,49,3,0,0,6
+2025-01-10,Maaza Bottle,Beverage,22.5,10,48,4,0,0,14
+2025-01-11,Maaza Bottle,Beverage,22.5,10,58,5,1,0,18
+2025-01-12,Maaza Bottle,Beverage,23.75,5,37,6,1,0,19
+2025-01-13,Maaza Bottle,Beverage,25.0,0,28,0,0,0,10
+2025-01-14,Maaza Bottle,Beverage,22.5,10,28,1,0,0,17
+2025-01-15,Maaza Bottle,Beverage,23.75,5,44,2,0,0,14
+2025-01-16,Maaza Bottle,Beverage,20.0,20,69,3,0,0,23
+2025-01-17,Maaza Bottle,Beverage,25.0,0,90,4,0,0,14
+2025-01-18,Maaza Bottle,Beverage,23.75,5,76,5,1,0,22
+2025-01-19,Maaza Bottle,Beverage,23.75,5,94,6,1,0,14
+2025-01-20,Maaza Bottle,Beverage,23.75,5,66,0,0,0,15
+2025-01-21,Maaza Bottle,Beverage,23.75,5,97,1,0,0,9
+2025-01-22,Maaza Bottle,Beverage,23.75,5,99,2,0,0,16
+2025-01-23,Maaza Bottle,Beverage,23.75,5,58,3,0,0,15
+2025-01-24,Maaza Bottle,Beverage,25.0,0,36,4,0,0,5
+2025-01-25,Maaza Bottle,Beverage,23.75,5,77,5,1,0,14
+2025-01-26,Maaza Bottle,Beverage,20.0,20,79,6,1,0,23
+2025-01-27,Maaza Bottle,Beverage,25.0,0,63,0,0,0,5
+2025-01-28,Maaza Bottle,Beverage,21.25,15,32,1,0,0,21
+2025-01-29,Maaza Bottle,Beverage,21.25,15,74,2,0,0,18
+2025-01-30,Maaza Bottle,Beverage,20.0,20,61,3,0,0,20
+2025-01-31,Maaza Bottle,Beverage,23.75,5,44,4,0,0,18
+2025-02-01,Maaza Bottle,Beverage,25.0,0,95,5,1,0,14
+2025-02-02,Maaza Bottle,Beverage,25.0,0,43,6,1,0,13
+2025-02-03,Maaza Bottle,Beverage,23.75,5,35,0,0,0,15
+2025-02-04,Maaza Bottle,Beverage,22.5,10,86,1,0,0,10
+2025-02-05,Maaza Bottle,Beverage,23.75,5,94,2,0,0,14
+2025-02-06,Maaza Bottle,Beverage,25.0,0,71,3,0,0,16
+2025-02-07,Maaza Bottle,Beverage,22.5,10,21,4,0,0,15
+2025-02-08,Maaza Bottle,Beverage,25.0,0,28,5,1,0,16
+2025-02-09,Maaza Bottle,Beverage,21.25,15,22,6,1,0,19
+2025-02-10,Maaza Bottle,Beverage,20.0,20,46,0,0,0,24
+2025-02-11,Maaza Bottle,Beverage,25.0,0,88,1,0,0,8
+2025-02-12,Maaza Bottle,Beverage,23.75,5,44,2,0,0,13
+2025-02-13,Maaza Bottle,Beverage,25.0,0,57,3,0,0,14
+2025-02-14,Maaza Bottle,Beverage,25.0,0,56,4,0,0,16
+2025-02-15,Maaza Bottle,Beverage,22.5,10,49,5,1,0,22
+2025-02-16,Maaza Bottle,Beverage,23.75,5,70,6,1,0,22
+2025-02-17,Maaza Bottle,Beverage,25.0,0,44,0,0,0,8
+2025-02-18,Maaza Bottle,Beverage,25.0,0,48,1,0,0,16
+2025-02-19,Maaza Bottle,Beverage,23.75,5,62,2,0,0,13
+2025-02-20,Maaza Bottle,Beverage,21.25,15,46,3,0,0,21
+2025-02-21,Maaza Bottle,Beverage,20.0,20,66,4,0,0,21
+2025-02-22,Maaza Bottle,Beverage,25.0,0,71,5,1,0,17
+2025-02-23,Maaza Bottle,Beverage,25.0,0,39,6,1,0,15
+2025-02-24,Maaza Bottle,Beverage,20.0,20,93,0,0,0,23
+2025-02-25,Maaza Bottle,Beverage,23.75,5,36,1,0,0,13
+2025-02-26,Maaza Bottle,Beverage,25.0,0,53,2,0,0,11
+2025-02-27,Maaza Bottle,Beverage,25.0,0,79,3,0,0,15
+2025-02-28,Maaza Bottle,Beverage,25.0,0,81,4,0,0,11
+2025-03-01,Maaza Bottle,Beverage,21.25,15,33,5,1,0,25
+2025-03-02,Maaza Bottle,Beverage,20.0,20,69,6,1,0,26
+2025-03-03,Maaza Bottle,Beverage,25.0,0,89,0,0,0,15
+2025-03-04,Maaza Bottle,Beverage,22.5,10,26,1,0,0,14
+2025-03-05,Maaza Bottle,Beverage,22.5,10,76,2,0,0,14
+2025-03-06,Maaza Bottle,Beverage,20.0,20,28,3,0,0,23
+2025-03-07,Maaza Bottle,Beverage,25.0,0,53,4,0,0,14
+2025-03-08,Maaza Bottle,Beverage,25.0,0,65,5,1,0,15
+2025-03-09,Maaza Bottle,Beverage,25.0,0,54,6,1,0,17
+2025-03-10,Maaza Bottle,Beverage,25.0,0,67,0,0,0,13
+2025-03-11,Maaza Bottle,Beverage,23.75,5,79,1,0,0,15
+2025-03-12,Maaza Bottle,Beverage,23.75,5,68,2,0,0,15
+2025-03-13,Maaza Bottle,Beverage,25.0,0,80,3,0,0,11
+2025-03-14,Maaza Bottle,Beverage,23.75,5,93,4,0,0,14
+2025-03-15,Maaza Bottle,Beverage,25.0,0,65,5,1,0,11
+2025-03-16,Maaza Bottle,Beverage,21.25,15,73,6,1,0,20
+2025-03-17,Maaza Bottle,Beverage,25.0,0,32,0,0,0,14
+2025-03-18,Maaza Bottle,Beverage,22.5,10,83,1,0,0,19
+2025-03-19,Maaza Bottle,Beverage,23.75,5,66,2,0,0,16
+2025-03-20,Maaza Bottle,Beverage,22.5,10,29,3,0,0,13
+2025-03-21,Maaza Bottle,Beverage,25.0,0,62,4,0,0,13
+2025-03-22,Maaza Bottle,Beverage,20.0,20,60,5,1,0,24
+2025-03-23,Maaza Bottle,Beverage,22.5,10,85,6,1,0,22
+2025-03-24,Maaza Bottle,Beverage,22.5,10,64,0,0,0,16
+2025-03-25,Maaza Bottle,Beverage,22.5,10,29,1,0,0,18
+2025-03-26,Maaza Bottle,Beverage,21.25,15,79,2,0,0,25
+2025-03-27,Maaza Bottle,Beverage,23.75,5,29,3,0,0,12
+2025-03-28,Maaza Bottle,Beverage,23.75,5,24,4,0,0,12
+2025-03-29,Maaza Bottle,Beverage,20.0,20,29,5,1,0,26
+2025-03-30,Maaza Bottle,Beverage,22.5,10,92,6,1,0,24
+2025-03-31,Maaza Bottle,Beverage,25.0,0,34,0,0,0,3
+2025-04-01,Maaza Bottle,Beverage,22.5,10,97,1,0,0,11
+2025-04-02,Maaza Bottle,Beverage,23.75,5,93,2,0,0,12
+2025-04-03,Maaza Bottle,Beverage,22.5,10,54,3,0,0,12
+2025-04-04,Maaza Bottle,Beverage,23.75,5,74,4,0,0,14
+2025-04-05,Maaza Bottle,Beverage,22.5,10,78,5,1,0,20
+2025-04-06,Maaza Bottle,Beverage,21.25,15,52,6,1,0,21
+2025-04-07,Maaza Bottle,Beverage,23.75,5,50,0,0,0,13
+2025-04-08,Maaza Bottle,Beverage,25.0,0,87,1,0,0,7
+2025-04-09,Maaza Bottle,Beverage,25.0,0,65,2,0,0,12
+2025-04-10,Maaza Bottle,Beverage,25.0,0,48,3,0,0,12
+2025-04-11,Maaza Bottle,Beverage,21.25,15,67,4,0,0,17
+2025-04-12,Maaza Bottle,Beverage,20.0,20,83,5,1,0,21
+2025-04-13,Maaza Bottle,Beverage,25.0,0,94,6,1,0,16
+2025-04-14,Maaza Bottle,Beverage,25.0,0,24,0,0,0,9
+2025-04-15,Maaza Bottle,Beverage,23.75,5,84,1,0,0,16
+2025-04-16,Maaza Bottle,Beverage,23.75,5,76,2,0,0,14
+2025-04-17,Maaza Bottle,Beverage,25.0,0,65,3,0,0,8
+2025-04-18,Maaza Bottle,Beverage,22.5,10,70,4,0,0,16
+2025-04-19,Maaza Bottle,Beverage,25.0,0,35,5,1,0,19
+2025-04-20,Maaza Bottle,Beverage,21.25,15,35,6,1,0,25
+2025-04-21,Maaza Bottle,Beverage,23.75,5,36,0,0,0,18
+2025-04-22,Maaza Bottle,Beverage,22.5,10,49,1,0,0,13
+2025-04-23,Maaza Bottle,Beverage,22.5,10,25,2,0,0,19
+2025-04-24,Maaza Bottle,Beverage,25.0,0,79,3,0,0,11
+2025-04-25,Maaza Bottle,Beverage,21.25,15,38,4,0,0,18
+2025-04-26,Maaza Bottle,Beverage,23.75,5,76,5,1,0,19
+2025-04-27,Maaza Bottle,Beverage,22.5,10,20,6,1,0,20
+2025-04-28,Maaza Bottle,Beverage,21.25,15,51,0,0,0,20
+2025-04-29,Maaza Bottle,Beverage,21.25,15,82,1,0,0,19
+2025-04-30,Maaza Bottle,Beverage,22.5,10,85,2,0,0,20
+2025-05-01,Maaza Bottle,Beverage,23.75,5,61,3,0,0,11
+2025-05-02,Maaza Bottle,Beverage,25.0,0,58,4,0,0,14
+2025-05-03,Maaza Bottle,Beverage,25.0,0,92,5,1,0,10
+2025-05-04,Maaza Bottle,Beverage,25.0,0,78,6,1,0,12
+2025-05-05,Maaza Bottle,Beverage,25.0,0,87,0,0,0,13
+2025-05-06,Maaza Bottle,Beverage,25.0,0,56,1,0,0,14
+2025-05-07,Maaza Bottle,Beverage,20.0,20,47,2,0,0,23
+2025-05-08,Maaza Bottle,Beverage,22.5,10,78,3,0,0,15
+2025-05-09,Maaza Bottle,Beverage,25.0,0,58,4,0,0,12
+2025-05-10,Maaza Bottle,Beverage,21.25,15,49,5,1,0,23
+2025-05-11,Maaza Bottle,Beverage,21.25,15,81,6,1,0,21
+2025-05-12,Maaza Bottle,Beverage,25.0,0,49,0,0,0,10
+2025-05-13,Maaza Bottle,Beverage,20.0,20,42,1,0,0,20
+2025-05-14,Maaza Bottle,Beverage,25.0,0,54,2,0,0,12
+2025-05-15,Maaza Bottle,Beverage,22.5,10,20,3,0,0,17
+2025-05-16,Maaza Bottle,Beverage,25.0,0,52,4,0,0,6
+2025-05-17,Maaza Bottle,Beverage,22.5,10,55,5,1,0,22
+2025-05-18,Maaza Bottle,Beverage,25.0,0,23,6,1,0,19
+2025-05-19,Maaza Bottle,Beverage,20.0,20,32,0,0,0,22
+2025-05-20,Maaza Bottle,Beverage,22.5,10,49,1,0,0,21
+2025-05-21,Maaza Bottle,Beverage,25.0,0,77,2,0,0,8
+2025-05-22,Maaza Bottle,Beverage,23.75,5,69,3,0,0,19
+2025-05-23,Maaza Bottle,Beverage,25.0,0,50,4,0,0,10
+2025-05-24,Maaza Bottle,Beverage,23.75,5,45,5,1,0,20
+2025-05-25,Maaza Bottle,Beverage,22.5,10,68,6,1,0,22
+2025-05-26,Maaza Bottle,Beverage,21.25,15,85,0,0,0,15
+2025-05-27,Maaza Bottle,Beverage,22.5,10,42,1,0,0,15
+2025-05-28,Maaza Bottle,Beverage,25.0,0,33,2,0,0,6
+2025-05-29,Maaza Bottle,Beverage,22.5,10,53,3,0,0,14
+2025-05-30,Maaza Bottle,Beverage,25.0,0,54,4,0,0,14
+2025-05-31,Maaza Bottle,Beverage,23.75,5,38,5,1,0,19
+2025-06-01,Maaza Bottle,Beverage,25.0,0,73,6,1,0,19
+2025-06-02,Maaza Bottle,Beverage,25.0,0,20,0,0,0,15
+2025-06-03,Maaza Bottle,Beverage,25.0,0,89,1,0,0,13
+2025-06-04,Maaza Bottle,Beverage,22.5,10,84,2,0,0,17
+2025-06-05,Maaza Bottle,Beverage,25.0,0,22,3,0,0,10
+2025-06-06,Maaza Bottle,Beverage,22.5,10,47,4,0,0,17
+2025-06-07,Maaza Bottle,Beverage,25.0,0,26,5,1,0,10
+2025-06-08,Maaza Bottle,Beverage,22.5,10,27,6,1,0,25
+2025-06-09,Maaza Bottle,Beverage,25.0,0,46,0,0,0,10
+2025-06-10,Maaza Bottle,Beverage,25.0,0,76,1,0,0,9
+2025-06-11,Maaza Bottle,Beverage,25.0,0,33,2,0,0,16
+2025-06-12,Maaza Bottle,Beverage,25.0,0,33,3,0,0,12
+2025-06-13,Maaza Bottle,Beverage,25.0,0,35,4,0,0,4
+2025-06-14,Maaza Bottle,Beverage,23.75,5,97,5,1,0,21
+2025-06-15,Maaza Bottle,Beverage,23.75,5,46,6,1,0,19
+2025-06-16,Maaza Bottle,Beverage,22.5,10,47,0,0,0,19
+2025-06-17,Maaza Bottle,Beverage,25.0,0,99,1,0,0,13
+2025-06-18,Maaza Bottle,Beverage,25.0,0,82,2,0,0,16
+2025-06-19,Maaza Bottle,Beverage,25.0,0,56,3,0,0,11
+2025-06-20,Maaza Bottle,Beverage,25.0,0,81,4,0,0,12
+2025-06-21,Maaza Bottle,Beverage,21.25,15,85,5,1,0,20
+2025-06-22,Maaza Bottle,Beverage,25.0,0,25,6,1,0,15
+2025-06-23,Maaza Bottle,Beverage,21.25,15,96,0,0,0,20
+2025-06-24,Maaza Bottle,Beverage,23.75,5,29,1,0,0,16
+2025-06-25,Maaza Bottle,Beverage,22.5,10,96,2,0,0,17
+2025-06-26,Maaza Bottle,Beverage,22.5,10,90,3,0,0,16
+2025-06-27,Maaza Bottle,Beverage,22.5,10,39,4,0,0,16
+2024-12-29,Detergent Pack,Household,47.5,5,86,6,1,0,16
+2024-12-30,Detergent Pack,Household,42.5,15,69,0,0,0,16
+2024-12-31,Detergent Pack,Household,47.5,5,48,1,0,0,9
+2025-01-01,Detergent Pack,Household,50.0,0,58,2,0,0,6
+2025-01-02,Detergent Pack,Household,42.5,15,61,3,0,0,17
+2025-01-03,Detergent Pack,Household,42.5,15,55,4,0,0,13
+2025-01-04,Detergent Pack,Household,45.0,10,56,5,1,0,15
+2025-01-05,Detergent Pack,Household,45.0,10,38,6,1,0,19
+2025-01-06,Detergent Pack,Household,40.0,20,71,0,0,0,15
+2025-01-07,Detergent Pack,Household,50.0,0,54,1,0,0,13
+2025-01-08,Detergent Pack,Household,40.0,20,47,2,0,0,21
+2025-01-09,Detergent Pack,Household,50.0,0,37,3,0,0,6
+2025-01-10,Detergent Pack,Household,50.0,0,75,4,0,0,9
+2025-01-11,Detergent Pack,Household,50.0,0,53,5,1,0,14
+2025-01-12,Detergent Pack,Household,50.0,0,47,6,1,0,10
+2025-01-13,Detergent Pack,Household,45.0,10,78,0,0,0,14
+2025-01-14,Detergent Pack,Household,50.0,0,87,1,0,0,13
+2025-01-15,Detergent Pack,Household,40.0,20,30,2,0,0,18
+2025-01-16,Detergent Pack,Household,50.0,0,53,3,0,0,14
+2025-01-17,Detergent Pack,Household,40.0,20,32,4,0,0,14
+2025-01-18,Detergent Pack,Household,50.0,0,53,5,1,0,20
+2025-01-19,Detergent Pack,Household,50.0,0,26,6,1,0,14
+2025-01-20,Detergent Pack,Household,40.0,20,21,0,0,0,12
+2025-01-21,Detergent Pack,Household,45.0,10,45,1,0,0,14
+2025-01-22,Detergent Pack,Household,50.0,0,85,2,0,0,2
+2025-01-23,Detergent Pack,Household,45.0,10,40,3,0,0,11
+2025-01-24,Detergent Pack,Household,50.0,0,79,4,0,0,8
+2025-01-25,Detergent Pack,Household,45.0,10,87,5,1,0,17
+2025-01-26,Detergent Pack,Household,42.5,15,61,6,1,0,19
+2025-01-27,Detergent Pack,Household,50.0,0,32,0,0,0,11
+2025-01-28,Detergent Pack,Household,45.0,10,93,1,0,0,11
+2025-01-29,Detergent Pack,Household,50.0,0,29,2,0,0,7
+2025-01-30,Detergent Pack,Household,50.0,0,20,3,0,0,6
+2025-01-31,Detergent Pack,Household,47.5,5,48,4,0,0,13
+2025-02-01,Detergent Pack,Household,50.0,0,48,5,1,0,12
+2025-02-02,Detergent Pack,Household,45.0,10,62,6,1,0,16
+2025-02-03,Detergent Pack,Household,45.0,10,21,0,0,0,18
+2025-02-04,Detergent Pack,Household,42.5,15,79,1,0,0,18
+2025-02-05,Detergent Pack,Household,40.0,20,60,2,0,0,12
+2025-02-06,Detergent Pack,Household,47.5,5,34,3,0,0,6
+2025-02-07,Detergent Pack,Household,40.0,20,39,4,0,0,18
+2025-02-08,Detergent Pack,Household,47.5,5,27,5,1,0,15
+2025-02-09,Detergent Pack,Household,45.0,10,74,6,1,0,17
+2025-02-10,Detergent Pack,Household,50.0,0,54,0,0,0,8
+2025-02-11,Detergent Pack,Household,47.5,5,46,1,0,0,11
+2025-02-12,Detergent Pack,Household,40.0,20,98,2,0,0,21
+2025-02-13,Detergent Pack,Household,50.0,0,30,3,0,0,7
+2025-02-14,Detergent Pack,Household,47.5,5,29,4,0,0,9
+2025-02-15,Detergent Pack,Household,45.0,10,83,5,1,0,21
+2025-02-16,Detergent Pack,Household,50.0,0,92,6,1,0,5
+2025-02-17,Detergent Pack,Household,40.0,20,41,0,0,0,18
+2025-02-18,Detergent Pack,Household,50.0,0,33,1,0,0,7
+2025-02-19,Detergent Pack,Household,47.5,5,99,2,0,0,12
+2025-02-20,Detergent Pack,Household,40.0,20,69,3,0,0,13
+2025-02-21,Detergent Pack,Household,50.0,0,31,4,0,0,6
+2025-02-22,Detergent Pack,Household,50.0,0,63,5,1,0,15
+2025-02-23,Detergent Pack,Household,45.0,10,85,6,1,0,12
+2025-02-24,Detergent Pack,Household,47.5,5,38,0,0,0,13
+2025-02-25,Detergent Pack,Household,50.0,0,38,1,0,0,8
+2025-02-26,Detergent Pack,Household,45.0,10,32,2,0,0,14
+2025-02-27,Detergent Pack,Household,50.0,0,69,3,0,0,10
+2025-02-28,Detergent Pack,Household,47.5,5,96,4,0,0,15
+2025-03-01,Detergent Pack,Household,50.0,0,41,5,1,0,9
+2025-03-02,Detergent Pack,Household,47.5,5,95,6,1,0,15
+2025-03-03,Detergent Pack,Household,45.0,10,22,0,0,0,11
+2025-03-04,Detergent Pack,Household,45.0,10,82,1,0,0,15
+2025-03-05,Detergent Pack,Household,45.0,10,32,2,0,0,12
+2025-03-06,Detergent Pack,Household,45.0,10,56,3,0,0,8
+2025-03-07,Detergent Pack,Household,47.5,5,76,4,0,0,7
+2025-03-08,Detergent Pack,Household,50.0,0,96,5,1,0,10
+2025-03-09,Detergent Pack,Household,50.0,0,20,6,1,0,12
+2025-03-10,Detergent Pack,Household,50.0,0,99,0,0,0,8
+2025-03-11,Detergent Pack,Household,40.0,20,92,1,0,0,21
+2025-03-12,Detergent Pack,Household,50.0,0,82,2,0,0,8
+2025-03-13,Detergent Pack,Household,50.0,0,81,3,0,0,11
+2025-03-14,Detergent Pack,Household,50.0,0,61,4,0,0,14
+2025-03-15,Detergent Pack,Household,45.0,10,84,5,1,0,18
+2025-03-16,Detergent Pack,Household,50.0,0,62,6,1,0,16
+2025-03-17,Detergent Pack,Household,50.0,0,84,0,0,0,6
+2025-03-18,Detergent Pack,Household,47.5,5,99,1,0,0,13
+2025-03-19,Detergent Pack,Household,40.0,20,24,2,0,0,17
+2025-03-20,Detergent Pack,Household,47.5,5,40,3,0,0,7
+2025-03-21,Detergent Pack,Household,45.0,10,37,4,0,0,9
+2025-03-22,Detergent Pack,Household,40.0,20,83,5,1,0,20
+2025-03-23,Detergent Pack,Household,45.0,10,60,6,1,0,18
+2025-03-24,Detergent Pack,Household,40.0,20,81,0,0,0,27
+2025-03-25,Detergent Pack,Household,47.5,5,95,1,0,0,14
+2025-03-26,Detergent Pack,Household,47.5,5,79,2,0,0,13
+2025-03-27,Detergent Pack,Household,50.0,0,39,3,0,0,13
+2025-03-28,Detergent Pack,Household,47.5,5,70,4,0,0,13
+2025-03-29,Detergent Pack,Household,50.0,0,86,5,1,0,13
+2025-03-30,Detergent Pack,Household,45.0,10,40,6,1,0,16
+2025-03-31,Detergent Pack,Household,50.0,0,36,0,0,0,7
+2025-04-01,Detergent Pack,Household,45.0,10,45,1,0,0,10
+2025-04-02,Detergent Pack,Household,50.0,0,93,2,0,0,13
+2025-04-03,Detergent Pack,Household,50.0,0,62,3,0,0,7
+2025-04-04,Detergent Pack,Household,45.0,10,36,4,0,0,14
+2025-04-05,Detergent Pack,Household,47.5,5,69,5,1,0,10
+2025-04-06,Detergent Pack,Household,40.0,20,70,6,1,0,20
+2025-04-07,Detergent Pack,Household,42.5,15,91,0,0,0,16
+2025-04-08,Detergent Pack,Household,47.5,5,33,1,0,0,14
+2025-04-09,Detergent Pack,Household,50.0,0,93,2,0,0,9
+2025-04-10,Detergent Pack,Household,45.0,10,79,3,0,0,17
+2025-04-11,Detergent Pack,Household,45.0,10,52,4,0,0,10
+2025-04-12,Detergent Pack,Household,42.5,15,48,5,1,0,16
+2025-04-13,Detergent Pack,Household,40.0,20,57,6,1,0,22
+2025-04-14,Detergent Pack,Household,50.0,0,82,0,0,0,12
+2025-04-15,Detergent Pack,Household,50.0,0,53,1,0,0,10
+2025-04-16,Detergent Pack,Household,50.0,0,59,2,0,0,7
+2025-04-17,Detergent Pack,Household,50.0,0,36,3,0,0,8
+2025-04-18,Detergent Pack,Household,40.0,20,88,4,0,0,13
+2025-04-19,Detergent Pack,Household,50.0,0,61,5,1,0,10
+2025-04-20,Detergent Pack,Household,50.0,0,41,6,1,0,15
+2025-04-21,Detergent Pack,Household,47.5,5,88,0,0,0,17
+2025-04-22,Detergent Pack,Household,47.5,5,86,1,0,0,11
+2025-04-23,Detergent Pack,Household,50.0,0,88,2,0,0,7
+2025-04-24,Detergent Pack,Household,47.5,5,46,3,0,0,16
+2025-04-25,Detergent Pack,Household,50.0,0,21,4,0,0,8
+2025-04-26,Detergent Pack,Household,42.5,15,46,5,1,0,21
+2025-04-27,Detergent Pack,Household,50.0,0,95,6,1,0,14
+2025-04-28,Detergent Pack,Household,50.0,0,87,0,0,0,13
+2025-04-29,Detergent Pack,Household,47.5,5,39,1,0,0,13
+2025-04-30,Detergent Pack,Household,50.0,0,71,2,0,0,10
+2025-05-01,Detergent Pack,Household,50.0,0,85,3,0,0,10
+2025-05-02,Detergent Pack,Household,50.0,0,52,4,0,0,8
+2025-05-03,Detergent Pack,Household,42.5,15,55,5,1,0,21
+2025-05-04,Detergent Pack,Household,47.5,5,22,6,1,0,16
+2025-05-05,Detergent Pack,Household,47.5,5,99,0,0,0,12
+2025-05-06,Detergent Pack,Household,50.0,0,70,1,0,0,8
+2025-05-07,Detergent Pack,Household,50.0,0,55,2,0,0,14
+2025-05-08,Detergent Pack,Household,45.0,10,73,3,0,0,12
+2025-05-09,Detergent Pack,Household,47.5,5,50,4,0,0,14
+2025-05-10,Detergent Pack,Household,50.0,0,32,5,1,0,12
+2025-05-11,Detergent Pack,Household,47.5,5,75,6,1,0,19
+2025-05-12,Detergent Pack,Household,42.5,15,97,0,0,0,15
+2025-05-13,Detergent Pack,Household,47.5,5,71,1,0,0,10
+2025-05-14,Detergent Pack,Household,50.0,0,33,2,0,0,10
+2025-05-15,Detergent Pack,Household,50.0,0,75,3,0,0,10
+2025-05-16,Detergent Pack,Household,42.5,15,87,4,0,0,13
+2025-05-17,Detergent Pack,Household,50.0,0,77,5,1,0,9
+2025-05-18,Detergent Pack,Household,50.0,0,86,6,1,0,8
+2025-05-19,Detergent Pack,Household,47.5,5,77,0,0,0,7
+2025-05-20,Detergent Pack,Household,45.0,10,81,1,0,0,13
+2025-05-21,Detergent Pack,Household,45.0,10,89,2,0,0,13
+2025-05-22,Detergent Pack,Household,40.0,20,35,3,0,0,18
+2025-05-23,Detergent Pack,Household,50.0,0,41,4,0,0,7
+2025-05-24,Detergent Pack,Household,50.0,0,36,5,1,0,15
+2025-05-25,Detergent Pack,Household,42.5,15,87,6,1,0,22
+2025-05-26,Detergent Pack,Household,45.0,10,48,0,0,0,10
+2025-05-27,Detergent Pack,Household,47.5,5,73,1,0,0,12
+2025-05-28,Detergent Pack,Household,45.0,10,72,2,0,0,14
+2025-05-29,Detergent Pack,Household,47.5,5,28,3,0,0,17
+2025-05-30,Detergent Pack,Household,45.0,10,99,4,0,0,18
+2025-05-31,Detergent Pack,Household,50.0,0,54,5,1,0,9
+2025-06-01,Detergent Pack,Household,45.0,10,29,6,1,0,7
+2025-06-02,Detergent Pack,Household,42.5,15,44,0,0,0,16
+2025-06-03,Detergent Pack,Household,50.0,0,62,1,0,0,10
+2025-06-04,Detergent Pack,Household,45.0,10,31,2,0,0,11
+2025-06-05,Detergent Pack,Household,45.0,10,36,3,0,0,11
+2025-06-06,Detergent Pack,Household,42.5,15,98,4,0,0,22
+2025-06-07,Detergent Pack,Household,50.0,0,70,5,1,0,15
+2025-06-08,Detergent Pack,Household,45.0,10,30,6,1,0,17
+2025-06-09,Detergent Pack,Household,50.0,0,85,0,0,0,11
+2025-06-10,Detergent Pack,Household,50.0,0,73,1,0,0,12
+2025-06-11,Detergent Pack,Household,47.5,5,99,2,0,0,13
+2025-06-12,Detergent Pack,Household,40.0,20,42,3,0,0,18
+2025-06-13,Detergent Pack,Household,50.0,0,39,4,0,0,7
+2025-06-14,Detergent Pack,Household,45.0,10,62,5,1,0,16
+2025-06-15,Detergent Pack,Household,45.0,10,66,6,1,0,22
+2025-06-16,Detergent Pack,Household,47.5,5,60,0,0,0,15
+2025-06-17,Detergent Pack,Household,45.0,10,89,1,0,0,11
+2025-06-18,Detergent Pack,Household,47.5,5,43,2,0,0,11
+2025-06-19,Detergent Pack,Household,45.0,10,61,3,0,0,16
+2025-06-20,Detergent Pack,Household,50.0,0,38,4,0,0,9
+2025-06-21,Detergent Pack,Household,40.0,20,58,5,1,0,17
+2025-06-22,Detergent Pack,Household,42.5,15,42,6,1,0,17
+2025-06-23,Detergent Pack,Household,50.0,0,39,0,0,0,6
+2025-06-24,Detergent Pack,Household,47.5,5,57,1,0,0,13
+2025-06-25,Detergent Pack,Household,45.0,10,28,2,0,0,12
+2025-06-26,Detergent Pack,Household,50.0,0,96,3,0,0,13
+2025-06-27,Detergent Pack,Household,40.0,20,21,4,0,0,22
